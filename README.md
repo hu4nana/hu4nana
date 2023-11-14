@@ -29,6 +29,8 @@
 #### :pencil2: Study log
  
   <br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hu4nana)](https://github.com/anuraghazra/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=prs,issues,contribs)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hu4nana)](https://github.com/anuraghazra/github-readme-stats)
 </div>
